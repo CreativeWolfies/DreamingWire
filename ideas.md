@@ -28,6 +28,6 @@ A: The "tree of concepts"'s category or leaf of every part of the thought/will/n
 
 A: Think of it that way : Interface (microphone, webcam, picture, text, ...) -> DreamingWire Parser (one parser per format. There can be multiple versions of DreamingWire Parser for one format.) -> DreamingWire (code/text) -> DreamingWire Interpreter (one Interpreter per format. There can be multiple versions of DreamingWire Interpreter for one format to allow different ways of interpretation) -> Application (audio, video, image, text, ...)
 
-## Q: How does DreamingWire will look like?
+## Q: How will a DreamingWire-encoded will look like?
 
 A: I think a bit like SQL: a lot of text and some symbols like parentheses.
