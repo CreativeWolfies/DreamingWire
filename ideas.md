@@ -26,7 +26,15 @@ A: The "tree of concepts"'s category or leaf of every part of the thought/will/n
 
 ## Q: What is DreamingWire?
 
-A: Think of it that way : Interface (microphone, webcam, picture, text, ...) -> DreamingWire Parser (one parser per format. There can be multiple versions of DreamingWire Parser for one format.) -> DreamingWire (code/text) -> DreamingWire Interpreter (one Interpreter per format. There can be multiple versions of DreamingWire Interpreter for one format to allow different ways of interpretation) -> Application (audio, video, image, text, ...)
+A: Think of it that way : First, you have got an interface which could be a microphone, a webcam, a picture or whathever you want.
+
+Then, there is the DreamingWire Parser. Its role is you to understand and convert your input into the DreamingWire "code" format. There can be multiple DreamingWire Parsers. Some of them will handle multiple input formats, some of them will not. Some will understand your input different way, etc.
+
+After that, you have your DreamingWire code. Its only function is to represent one or multiple thoughts/wills/needs.
+
+Once this is done, you can give your DreamingWire code to a DreamingWire Interpreter. The role of the interpreter is to convert your thoughts/wills/needs into a concrete thing in the desired format. As well as the DreamingWire Parser, there can be multiple interpreters. Each one can handle multiple formats or not. Mutliple ways of understanding, etc. You get it.
+
+Finally, you have the application, which is the concrete representation of your thoughts/wills/needs in the desired format(s). It could be audio, video, 3D models, etc.
 
 ## Q: How will a DreamingWire-encoded will look like?
 
